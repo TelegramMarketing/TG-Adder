@@ -20,7 +20,7 @@ Contact Only for Serious Business, clowns Stay Away.
 
 - Software Name: Flash Adder
 - Released Date : 3rd April 2021
-- recently updated: 4th october 2022
+- recently updated: 28th october 2022
 - Latest Version: 1.6v
 - price : 120$ with upcoming Free Updates + Lifetime Support 
 - [Watch Flash Adder Video Tutorial](https://www.youtube.com/watch?v=3mcr1mx9wb4&t=2s)
